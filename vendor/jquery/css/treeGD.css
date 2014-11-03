@@ -1,0 +1,18 @@
+.treeGD-node{
+    cursor:pointer;
+}
+.treeGD-node-btn, .littleBtn{
+    font-size: 30%;
+}
+.treeGD-ul, treeGD-li{
+    list-style-type: none;
+    padding: 0px;
+    margin: 25px;
+}
+
+.treeGD-Bold{
+    font-weight: bold;
+}
+.littleBtn{
+    font-size: 65%;
+}
